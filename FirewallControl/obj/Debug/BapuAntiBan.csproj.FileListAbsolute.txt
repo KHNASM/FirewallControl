@@ -1,0 +1,10 @@
+C:\Users\DANTE\source\repos\BapuAntiBan\BapuAntiBan\obj\Debug\BapuAntiBan.csproj.AssemblyReference.cache
+C:\Users\DANTE\source\repos\BapuAntiBan\BapuAntiBan\obj\Debug\BapuAntiBan.MainForm.resources
+C:\Users\DANTE\source\repos\BapuAntiBan\BapuAntiBan\obj\Debug\BapuAntiBan.Properties.Resources.resources
+C:\Users\DANTE\source\repos\BapuAntiBan\BapuAntiBan\obj\Debug\BapuAntiBan.csproj.GenerateResource.cache
+C:\Users\DANTE\source\repos\BapuAntiBan\BapuAntiBan\obj\Debug\BapuAntiBan.csproj.CoreCompileInputs.cache
+C:\Users\DANTE\source\repos\BapuAntiBan\BapuAntiBan\bin\Debug\BapuAntiBan.exe.config
+C:\Users\DANTE\source\repos\BapuAntiBan\BapuAntiBan\bin\Debug\BapuAntiBan.exe
+C:\Users\DANTE\source\repos\BapuAntiBan\BapuAntiBan\bin\Debug\BapuAntiBan.pdb
+C:\Users\DANTE\source\repos\BapuAntiBan\BapuAntiBan\obj\Debug\BapuAntiBan.exe
+C:\Users\DANTE\source\repos\BapuAntiBan\BapuAntiBan\obj\Debug\BapuAntiBan.pdb
